@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/hichr/PycharmProjects/Pothole%20Detection/mlruns/877772988351685695/f07f7206007b463bacaca276209f8224/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '877772988351685695'
+lifecycle_stage: active
+run_id: f07f7206007b463bacaca276209f8224
+run_name: detection_20251005_102002
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759656002333
+status: 1
+tags: []
+user_id: hichr
