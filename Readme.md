@@ -236,7 +236,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 
 For questions or suggestions, please open an issue or contact:
-- Email: your.email@example.com
+- Email: mediheb@esprit.tn
 - GitHub:(https://github.com/medihebhichri)
 
 ## 🔮 Future Enhancements
