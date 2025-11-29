@@ -36,7 +36,7 @@ The system uses state-of-the-art semantic segmentation models:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/pothole-detection.git
+[git clone https://github.com/yourusername/pothole-detection.git](https://github.com/medihebhichri/pothole-detection.git)
 cd pothole-detection
 ```
 
